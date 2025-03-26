@@ -127,18 +127,18 @@ export const EXPERIENCES = [
 ];
 
 export const SOCIAL_MEDIA_LINKS = [
-  {
-    href: "https://x.com/",
-    icon: <FaFacebook fontSize={26} className="hover:opacity-80" />,
-  },
-  {
-    href: "https://x.com/",
-    icon: <FaDiscord fontSize={26} className="hover:opacity-80" />,
-  },
-  {
-    href: "https://x.com/",
-    icon: <FaInstagram fontSize={26} className="hover:opacity-80" />,
-  },
+  // {
+  //   href: "https://x.com/",
+  //   icon: <FaFacebook fontSize={26} className="hover:opacity-80" />,
+  // },
+  // {
+  //   href: "https://x.com/",
+  //   icon: <FaDiscord fontSize={26} className="hover:opacity-80" />,
+  // },
+  // {
+  //   href: "https://x.com/",
+  //   icon: <FaInstagram fontSize={26} className="hover:opacity-80" />,
+  // },
   {
     href: "https://x.com/",
     icon: <FaXTwitter fontSize={26} className="hover:opacity-80" />,

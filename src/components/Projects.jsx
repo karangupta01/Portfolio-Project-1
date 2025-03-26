@@ -11,8 +11,8 @@ function Projects() {
                 <div className='relative mb-4 overflow-hidden rounded-lg bg-white shadow-lg' >
                     <img src={project.imgSrc} alt={project.title} className='h-auto w-full object-cover' />
                     <div className='absolute bottom-0 left-0 right-0 m-8 p-8 text-white backdrop-blur-md' >
-                        <h3 className='text-3xl' >{project.title}</h3>
-                        <p className='max-w-xs text-lg' >{project.description}</p>
+                        <h3 className='text-2xl' >{project.title}</h3>
+                        <p className='max-w-xs text-sm' >{project.description}</p>
                     </div>
                 </div>
             </a>
