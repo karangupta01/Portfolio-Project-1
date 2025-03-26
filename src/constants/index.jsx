@@ -148,7 +148,7 @@ export const SOCIAL_MEDIA_LINKS = [
     icon: <FaGithub fontSize={26} className="hover:opacity-80" />,
   },
   {
-    href: "www.linkedin.com/in/karan-gupta-3aa117248",
+    href: "https://www.linkedin.com/in/karan-gupta-3aa117248",
     icon: <FaLinkedin fontSize={26} className="hover:opacity-80" />,
   },
 ];
